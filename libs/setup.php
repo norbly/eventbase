@@ -1,6 +1,6 @@
 <?php
 //include smarty
-require_once('/usr/local/lib/php/smarty/libs/Smarty.class.php');
+require_once('/var/www/html/eventbase/smarty/Smarty.class.php');
 // include main class
 require('/var/www/html/eventbase/libs/eventbase.lib.php');
 
